@@ -2,7 +2,9 @@
 # Run CMD
 
 [*] pkg install git 
+
 [*] git clone https://github.com/Yametemodz/config_mlbb.git
+
 [*] python3 performance_config.py
 
 # Installing Interface
